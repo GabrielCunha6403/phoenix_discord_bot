@@ -9,6 +9,6 @@ config :discord_bot,
   hostname: "localhost"
 
 config :nostrum,
-  token: "MTI5NjI1MTYyNjUwMzQwNTY2Mw.GUrVaJ.XgODXwPkLspF3rYdlFL2kb4g4Nm3c_ugZaXuho",
+  token: "<TOKEN>",
   ffmpeg: nil,
   gateway_intents: :all
